@@ -84,8 +84,8 @@ export function AppSidebar({ user, ...props }: AppSidebarProps) {
   // Determine which logo to show based on theme
   const logoUrl =
     resolvedTheme === "light"
-      ? "https://kzyyqceiufmftdesrefz.supabase.co/storage/v1/object/public/public-images//image.png"
-      : "https://kzyyqceiufmftdesrefz.supabase.co/storage/v1/object/public/public-images//logo.png";
+      ? "https://gaelqmutilydrzayqqgq.supabase.co/storage/v1/object/public/public-images//image.png"
+      : "https://gaelqmutilydrzayqqgq.supabase.co/storage/v1/object/public/public-images//logo.png";
   return (
     <Sidebar className="h-screen border-r flex flex-col" {...props}>
       <SidebarHeader className="flex items-center justify-center h-[125px]">

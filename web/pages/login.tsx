@@ -35,8 +35,8 @@ export default function LoginPage() {
   // Determine which logo to show based on theme
   const logoUrl =
     resolvedTheme === "light"
-      ? "https://kzyyqceiufmftdesrefz.supabase.co/storage/v1/object/public/public-images//image.png"
-      : "https://kzyyqceiufmftdesrefz.supabase.co/storage/v1/object/public/public-images//logo.png";
+      ? "https://gaelqmutilydrzayqqgq.supabase.co/storage/v1/object/public/public-images//image.png"
+      : "https://gaelqmutilydrzayqqgq.supabase.co/storage/v1/object/public/public-images//logo.png";
 
   return (
     <div className="flex  min-h-[calc(100svh-164px)] flex-col items-center justify-center gap-6 bg-background p-6 md:p-10">
