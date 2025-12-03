@@ -1,7 +1,5 @@
 # StudyHub
 
-> Developed by [Nickolas Bleykhman](https://github.com/nbleykhman), [Akksharvan Senthilkumar](https://github.com/akksharvan), [Kamal Deep Vasireddy](https://github.com/Kamal135792), [Joseph Zheng](https://github.com/joz2005) for COMP 426: Modern Web Programming at UNC-Chapel Hill.
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)
 ![Shadcn/ui](https://img.shields.io/badge/-Shadcn_UI-05122A?style=flat&logo=shadcnui)
